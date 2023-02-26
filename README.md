@@ -1,9 +1,9 @@
 ### Привет. Добро пожаловать в мой профиль 👋👋👋  
 ​
-💻 Меня зовут Вадим, и я начинающий фронтенд-разработчик  
-​
-**Мой стек:**  
-
+💻 Меня зовут Вадим, и я начинающий фронтенд-разработчик
+  
+**Мой стек:**
+  
 <span><img src="icons/react.png"></span>
 <span><img height="32" src="icons/redux.jpeg"></span>
 <span><img src="icons/typescript.png"></span>
@@ -12,9 +12,9 @@
 <span><img src="icons/css-3.png"></span>
 <span><img src="icons/sass.png"></span>
 <span><img src="icons/git.png"></span>
-
-**Изучаю:**  
-
+  
+**Изучаю:**
+  
 <span><img height="32" src="icons/nodejs.png"></span>
 <span><img height="32" src="icons/nestjs.svg"></span>
 <span><img height="32" src="icons/mongodb.png"></span>
