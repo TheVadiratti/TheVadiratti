@@ -4,22 +4,22 @@
 ​
 **Мой стек:**  
 
-<img src="icons/react.png">
-<img height="32" src="icons/redux.jpeg">
-<img src="icons/typescript.png">
-<img src="icons/javascript.png">
-<img src="icons/html-5.png">
-<img src="icons/css-3.png">
-<img src="icons/sass.png">
-<img src="icons/git.png">
+<span><img src="icons/react.png"></span>
+<span><img height="32" src="icons/redux.jpeg"></span>
+<span><img src="icons/typescript.png"></span>
+<span><img src="icons/javascript.png"></span>
+<span><img src="icons/html-5.png"></span>
+<span><img src="icons/css-3.png"></span>
+<span><img src="icons/sass.png"></span>
+<span><img src="icons/git.png"></span>
 
 **Изучаю:**  
 
-<img height="32" src="icons/nodejs.png">
-<img height="32" src="icons/nestjs.svg">
-<img height="32" src="icons/mongodb.png">
-<img height="32" src="icons/postgresql.png">
-<img height="24" src="icons/express.png">
+<span><img height="32" src="icons/nodejs.png"></span>
+<span><img height="32" src="icons/nestjs.svg"></span>
+<span><img height="32" src="icons/mongodb.png"></span>
+<span><img height="32" src="icons/postgresql.png"></span>
+<span><img height="24" src="icons/express.png"></span>
 
 
 <!--
