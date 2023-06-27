@@ -15,12 +15,9 @@
 <span><img height="32" src="icons/nodejs.png"></span>
 <span><img height="32" src="icons/mongodb.png"></span>
 <span><img height="24" src="icons/express.png"></span>
-  
-**In progress:**
-  
 <span><img height="32" src="icons/nestjs.svg"></span>
 <span><img height="32" src="icons/postgresql.png"></span>
-
+  
 <!--
 **TheVadiratti/TheVadiratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
