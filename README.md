@@ -1,6 +1,6 @@
 ### Hi. Welcome to my profile 👋👋👋  
 ​
-💻 My name is Vadim and I'm beginner frontend-developer
+💻 My name is Vadim and I'm frontend developer
   
 **My stack:**
   
